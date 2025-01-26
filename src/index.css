@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.colorStyle {
+  @apply w-20 h-20 rounded-md cursor-pointer duration-500;
+}
